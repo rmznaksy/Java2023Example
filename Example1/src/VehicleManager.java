@@ -1,9 +1,9 @@
 public class VehicleManager implements CreditManager {
-    public void calculate(){
+    public void calculate() {
         System.out.println("Vehicle Kredi Hesaplandı...");
     }
 
-    public void add(){
+    public void add() {
         System.out.println("Vehicle Kredi eklendi...");
     }
 }

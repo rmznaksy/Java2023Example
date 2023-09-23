@@ -6,7 +6,8 @@
         System.out.println("Kredi eklendi...");
     }
 }*/
-interface CreditManager{
+interface CreditManager {
     void calculate(); // method
+
     void add();
 }
